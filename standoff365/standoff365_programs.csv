@@ -1,0 +1,89 @@
+#,program_name,vendor,primary_domain,scope_count,status,finished,program_url
+1,Positive bug hunting,Positive Technologies,ptsecurity.com,6,published,False,https://bugbounty.standoff365.com/en-US/programs/ptsecurity
+2,Азбука вкуса,Азбука вкуса,azbukavkusa.ru,12,published,False,https://bugbounty.standoff365.com/en-US/programs/av
+3,"Почта, Облако и Календарь Mail.ru",VK,mail.ru,33,published,False,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+4,ВКонтакте,VK,vk.com,27,published,False,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+5,Одноклассники,VK,ok.ru,22,published,False,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+6,ТАРМ,VK,smailru.net,9,published,False,https://bugbounty.standoff365.com/en-US/programs/tarm_vk
+7,VK Cloud,VK,mail.ru,21,published,False,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+8,VK: Все Другое,VK,smailru.net,21,published,False,https://bugbounty.standoff365.com/en-US/programs/other_vk
+9,Дзен,VK,dzeninfra.ru,39,published,False,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+10,Rambler&Co. Основные медиаактивы,Rambler&Co,rambler.ru,17,published,False,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+11,VK Play,VK,vkplay.ru,29,published,False,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+12,VK HR Tek,VK,mail.ru,11,published,False,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+13,Чемпионаты VK,VK,smailru.net,15,published,False,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+14,VK Реклама,VK,smailru.net,11,published,False,https://bugbounty.standoff365.com/en-US/programs/target_vk
+15,Positive dream hunting,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/ptsecurity_ns
+16,Консоль,Консоль,konsol.pro,11,published,False,https://bugbounty.standoff365.com/en-US/programs/konsol
+17,VK Pay,VK,mail.ru,22,published,False,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+18,VK WorkSpace,VK,mail.ru,13,published,False,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+19,RuStore,RuStore,rustore.ru,19,published,False,https://bugbounty.standoff365.com/en-US/programs/rustore
+20,Госуслуги,Минцифры России,gosuslugi.ru,28,published,False,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+21,Единая система идентификации и аутентификации,Минцифры России,gosuslugi.ru,3,published,False,https://bugbounty.standoff365.com/en-US/programs/esia
+22,Standoff 365,Standoff 365,stf365.com,1,published,False,https://bugbounty.standoff365.com/en-US/programs/standoff-365
+23,Т-Банк,Т-Банк,tbank.ru,10,published,False,https://bugbounty.standoff365.com/en-US/programs/tbank
+24,Wildberries,Wildberries,wildberries.ru,18,published,False,https://bugbounty.standoff365.com/en-US/programs/wildberries
+25,Единая биометрическая система,Минцифры России,ebs.ru,6,published,False,https://bugbounty.standoff365.com/en-US/programs/gov-ebs
+26,ATI.SU,ATI.SU,ati.su,24,published,False,https://bugbounty.standoff365.com/en-US/programs/ati_su
+27,hh.ru,hh.ru,hh.ru,6,published,False,https://bugbounty.standoff365.com/en-US/programs/hh
+28,Платформа обратной связи (Госуслуги Решаем вместе),Минцифры России,gosuslugi.ru,7,published,False,https://bugbounty.standoff365.com/en-US/programs/gov-pos
+29,Система межведомственного электронного взаимодействия,Минцифры России,gosuslugi.ru,1,published,False,https://bugbounty.standoff365.com/en-US/programs/gov-smev
+30,Национальная система управления данными,Минцифры России,gosuslugi.ru,2,published,False,https://bugbounty.standoff365.com/en-US/programs/gov-nsud
+31,Головной удостоверяющий центр,Минцифры России,gosuslugi.ru,1,published,False,https://bugbounty.standoff365.com/en-US/programs/gov-e-trust
+32,Единая система нормативной справочной информации,Минцифры России,gosuslugi.ru,1,published,False,https://bugbounty.standoff365.com/en-US/programs/gov-esnsi
+33,Госвеб,Минцифры России,gosuslugi.ru,1,published,False,https://bugbounty.standoff365.com/en-US/programs/gov-gosweb
+34,PT Cloud AF,Positive Technologies,ptcloud.ru,2,published,False,https://bugbounty.standoff365.com/en-US/programs/ptcloud
+35,Магнит,Магнит,magnit.ru,8,published,False,https://bugbounty.standoff365.com/en-US/programs/magnit
+36,Ozon,Ozon,ozon.ru,15,published,False,https://bugbounty.standoff365.com/en-US/programs/ozon
+37,Самокат,Самокат,samokat.ru,6,published,False,https://bugbounty.standoff365.com/en-US/programs/samokat
+38,Okko,Okko,okko.tv,41,published,False,https://bugbounty.standoff365.com/en-US/programs/okko
+39,Innostage,Innostage,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/innostage
+40,VK Education,VK,vk.company,16,published,False,https://bugbounty.standoff365.com/en-US/programs/education_vk
+41,Контур,Контур,kontur.ru,9,published,False,https://bugbounty.standoff365.com/en-US/programs/kontur
+42,Rambler&Co. Портал «Рамблер»: почта и агрегатор новостей,Rambler&Co,rambler.ru,4,published,False,https://bugbounty.standoff365.com/en-US/programs/portal_rambler
+43,Компания «Афиша»,Rambler&Co,afisha.ru,7,published,False,https://bugbounty.standoff365.com/en-US/programs/afisha_ru
+44,Rambler&Co. Блог-платформа LiveJournal,Rambler&Co,rambler-co.ru,3,published,False,https://bugbounty.standoff365.com/en-US/programs/LiveJournal
+45,Точка Банк,Точка Банк,tochka.com,5,published,False,https://bugbounty.standoff365.com/en-US/programs/tochka
+46,Rambler&Co. Спорт,Rambler&Co,rambler.ru,5,published,False,https://bugbounty.standoff365.com/en-US/programs/ramblerco_sport
+47,Rambler&Co,Rambler&Co,lenta.ru,2,published,False,https://bugbounty.standoff365.com/en-US/programs/rambler-apt
+48,Timeweb,Timeweb,timeweb.com,2,published,False,https://bugbounty.standoff365.com/en-US/programs/timeweb
+49,СберЛогистика,Сберлогистика,sblogistica.ru,53,published,False,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+50,VK Видео,VK,vkvideo.ru,12,published,False,https://bugbounty.standoff365.com/en-US/programs/vk_video
+51,Купер,Купер,kuper.ru,11,published,False,https://bugbounty.standoff365.com/en-US/programs/kuper
+52,Инфосистемы Джет,Инфосистемы Джет,jet.su,13,published,False,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+53,TimewebTech,Timeweb,timeweb.tech,1,published,False,https://bugbounty.standoff365.com/en-US/programs/timewebtech
+54,TimewebCloud,Timeweb,timeweb.cloud,2,published,False,https://bugbounty.standoff365.com/en-US/programs/timewebcloud
+55,Craftum,Craftum,craftum.com,1,published,False,https://bugbounty.standoff365.com/en-US/programs/craftum
+56,ЮMoney,ЮMoney,yookassa.ru,4,published,False,https://bugbounty.standoff365.com/en-US/programs/yoomoney
+57,MAX,VK,smailru.net,14,published,False,https://bugbounty.standoff365.com/en-US/programs/max
+58,Информационные ресурсы Челябинской области,"Министерство информационных технологий, связи и цифрового развития  Челябинской области",gov74.ru,7,published,False,https://bugbounty.standoff365.com/en-US/programs/chelyabinskobl
+59,ФРГУ,Минцифры России,gosuslugi.ru,2,published,False,https://bugbounty.standoff365.com/en-US/programs/gov-frgu
+60,ФГИС ДО,Минцифры России,gosuslugi.ru,1,published,False,https://bugbounty.standoff365.com/en-US/programs/gov-do
+61,БКС Банк,БКС Банк,bcs-bank.ru,1,published,False,https://bugbounty.standoff365.com/en-US/programs/bcs-bank
+62,БКС Брокер,БКС Мир Инвестиций,bcs.ru,2,published,False,https://bugbounty.standoff365.com/en-US/programs/bcs
+63,K2 Cloud,K2 Cloud,k2.cloud,33,published,False,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+64,Flowwow,Flowwow,flowwow.com,7,published,False,https://bugbounty.standoff365.com/en-US/programs/flowwow
+65,Росфинмониторинг: Публичные сервисы,Росфинмониторинг,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/fedsfm
+66,PT NGFW,Positive Technologies,ptcloud.ru,1,published,False,https://bugbounty.standoff365.com/en-US/programs/pt_ngfw
+67,PT NAD,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/pt_nad
+68,MaxPatrol 360,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/mx_360
+69,Инфосистемы Джет (НС),Инфосистемы Джет,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/jet_ue
+70,MaxPatrol EDR,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/mx_edr
+71,PT Dephaze,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/pt_dephaze
+72,PT ISIM,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/pt_isim
+73,MaxPatrol O2,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/mx_o2
+74,MaxPatrol SIEM,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/pt_siem
+75,MaxPatrol VM,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/mx_vm
+76,PT Sandbox,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/pt_sandbox
+77,PT Application Firewall,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/pt_af
+78,PT Application Inspector,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/pt_ai
+79,PT Container Security,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/pt_cs
+80,PT Data Security,Positive Technologies,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/pt_ds
+81,Копилка,Кибериспытание,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/mybox
+82,Логика Молока,Логика Молока,,0,published,False,https://bugbounty.standoff365.com/en-US/programs/logika_moloka
+83,Cloud․ru,Cloud․ru,cloud.ru,3,published,False,https://bugbounty.standoff365.com/en-US/programs/cloud_ru
+84,MyReviews,Craftum,myreviews.dev,3,published,False,https://bugbounty.standoff365.com/en-US/programs/MyReviews
+85,ЕПГУ-Выборы,Минцифры России,gosuslugi.ru,5,published,False,https://bugbounty.standoff365.com/en-US/programs/epgu
+86,Setka,hh.ru,setka.ru,3,published,False,https://bugbounty.standoff365.com/en-US/programs/hh_setka
+87,Т-БКИ,Т-Банк,tbki.ru,2,published,False,https://bugbounty.standoff365.com/en-US/programs/tbki
+88,Центральный Университет,Т-Банк,centraluniversity.ru,3,published,False,https://bugbounty.standoff365.com/en-US/programs/cu

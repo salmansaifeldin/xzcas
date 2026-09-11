@@ -1,0 +1,757 @@
+program_name,vendor,scope_entry,root_domain,program_url
+Positive bug hunting,Positive Technologies,*.ptsecurity.com,ptsecurity.com,https://bugbounty.standoff365.com/en-US/programs/ptsecurity
+Positive bug hunting,Positive Technologies,*.ptsecurity.ru,ptsecurity.ru,https://bugbounty.standoff365.com/en-US/programs/ptsecurity
+Positive bug hunting,Positive Technologies,*.maxpatrol.com,maxpatrol.com,https://bugbounty.standoff365.com/en-US/programs/ptsecurity
+Positive bug hunting,Positive Technologies,*.maxpatrol.ru,maxpatrol.ru,https://bugbounty.standoff365.com/en-US/programs/ptsecurity
+Positive bug hunting,Positive Technologies,*.phdays.com,phdays.com,https://bugbounty.standoff365.com/en-US/programs/ptsecurity
+Positive bug hunting,Positive Technologies,*.phdays.ru,phdays.ru,https://bugbounty.standoff365.com/en-US/programs/ptsecurity
+Азбука вкуса,Азбука вкуса,av.ru,av.ru,https://bugbounty.standoff365.com/en-US/programs/av
+Азбука вкуса,Азбука вкуса,azbukavkusa.ru,azbukavkusa.ru,https://bugbounty.standoff365.com/en-US/programs/av
+Азбука вкуса,Азбука вкуса,tender.av.ru,av.ru,https://bugbounty.standoff365.com/en-US/programs/av
+Азбука вкуса,Азбука вкуса,owa.azbukavkusa.ru,azbukavkusa.ru,https://bugbounty.standoff365.com/en-US/programs/av
+Азбука вкуса,Азбука вкуса,owa-test.azbukavkusa.ru,azbukavkusa.ru,https://bugbounty.standoff365.com/en-US/programs/av
+Азбука вкуса,Азбука вкуса,pool01.azbukavkusa.ru,azbukavkusa.ru,https://bugbounty.standoff365.com/en-US/programs/av
+Азбука вкуса,Азбука вкуса,pool02.azbukavkusa.ru,azbukavkusa.ru,https://bugbounty.standoff365.com/en-US/programs/av
+Азбука вкуса,Азбука вкуса,sip.azbukavkusa.ru,azbukavkusa.ru,https://bugbounty.standoff365.com/en-US/programs/av
+Азбука вкуса,Азбука вкуса,meet.azbukavkusa.ru,azbukavkusa.ru,https://bugbounty.standoff365.com/en-US/programs/av
+Азбука вкуса,Азбука вкуса,join.azbukavkusa.ru,azbukavkusa.ru,https://bugbounty.standoff365.com/en-US/programs/av
+Азбука вкуса,Азбука вкуса,autodiscover.azbukavkusa.ru,azbukavkusa.ru,https://bugbounty.standoff365.com/en-US/programs/av
+Азбука вкуса,Азбука вкуса,lyncdiscover.azbukavkusa.ru,azbukavkusa.ru,https://bugbounty.standoff365.com/en-US/programs/av
+"Почта, Облако и Календарь Mail.ru",VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,ru.mail.cloud,mail.cloud,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,e.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,touch.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,m.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,tel.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,light.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,octavius.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,smtp.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,mxs.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,pop.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,imap.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,cloud.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,calendar.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,wallet.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,vk.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,auth.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,o2.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,account.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,swa.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,id.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,contacts.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,notes.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,doc.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,board.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,board.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,love.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+"Почта, Облако и Календарь Mail.ru",VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/mail_vk
+ВКонтакте,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,m.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,m.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,api.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,api.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,login.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,login.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,oauth.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,oauth.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,*.vk.cc,vk.cc,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,*.vk.link,vk.link,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,id.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,id.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,dev.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,dev.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,platform.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,platform.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,*.vk-cdn.net,vk-cdn.net,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,*.userapi.com,userapi.com,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,*.vkuser.net,vkuser.net,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+ВКонтакте,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/vkontakte_vk
+Одноклассники,VK,ok.ru,ok.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,m.ok.ru,ok.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,api.ok.ru,ok.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,connect.ok.ru,ok.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,paymentnew.ok.ru,ok.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,api-hprof.odkl.ru,odkl.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,*.tamtam.chat,tamtam.chat,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,*.ok.ru,ok.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,mycdn.me,mycdn.me,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,*.mycdn.me,mycdn.me,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,okcdn.ru,okcdn.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,*.okcdn.ru,okcdn.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,ok.me,ok.me,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,apiok.ru,apiok.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,insideok.ru,insideok.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+Одноклассники,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/odnoklassniki_vk
+ТАРМ,VK,armgs.team,armgs.team,https://bugbounty.standoff365.com/en-US/programs/tarm_vk
+ТАРМ,VK,*.armgs.team,armgs.team,https://bugbounty.standoff365.com/en-US/programs/tarm_vk
+ТАРМ,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/tarm_vk
+ТАРМ,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/tarm_vk
+ТАРМ,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/tarm_vk
+ТАРМ,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/tarm_vk
+ТАРМ,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/tarm_vk
+ТАРМ,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/tarm_vk
+ТАРМ,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/tarm_vk
+VK Cloud,VK,*.msk.cloud,msk.cloud,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,cloud.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,cloud.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,mcs.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,*.mcs.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,infra.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,features.mcs.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,support.mcs.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,support.tech.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,support.tech.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,support.tech.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,kz.cloud.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,kz.cloud.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,*.vkcs.cloud,vkcs.cloud,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK Cloud,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/vk_cs_vk
+VK: Все Другое,VK,adblogger.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,adblogger.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.taxmon.ru,taxmon.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,vktech.ispring.ru,ispring.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.vkcs.cloud,vkcs.cloud,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.algoritmika.org,algoritmika.org,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.yaklass.ru,yaklass.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.umschool.net,umschool.net,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.code-class.ru,code-class.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.summerstage.ru,summerstage.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.vk-stadium.ru,vk-stadium.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.bargipsy.com,bargipsy.com,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.tetrika-school.ru,tetrika-school.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+VK: Все Другое,VK,uchi.ru,uchi.ru,https://bugbounty.standoff365.com/en-US/programs/other_vk
+Дзен,VK,dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,cdn.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,clck.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,lkpo.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,lkpo.preprod.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,lkpo.prestable.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,lkpo.test.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,log.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,m.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,notify.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,rc.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,sso.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,sso.rc.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,vh-admin.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,vhnews.dzen.ru,dzen.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,s3.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,api-ext-vh.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,api.vh.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,avatars.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,cold.cdn.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,csp.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,paste.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,selenium.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,setrace.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,src-ugc.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,static.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,vh-test.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,videohub.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,videohub.test.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,*.cdn.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,*.s3.dzeninfra.ru,dzeninfra.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Дзен,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/dzen_vk
+Rambler&Co. Основные медиаактивы,Rambler&Co,rm.rambler-co.ru,rambler-co.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,id.rambler.ru,rambler.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,store.rambler.ru,rambler.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,*.lenta.ru,lenta.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,*.gazeta.ru,gazeta.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,*.moslenta.ru,moslenta.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,*.secretmag.ru,secretmag.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,*.ferra.ru,ferra.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,*.quto.ru,quto.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,*.motor.ru,motor.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,*.letidor.ru,letidor.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,*.wmj.ru,wmj.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,*.passion.ru,passion.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,lenta.ru,lenta.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,gazeta.ru,gazeta.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,motor.ru,motor.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+Rambler&Co. Основные медиаактивы,Rambler&Co,ferra.ru,ferra.ru,https://bugbounty.standoff365.com/en-US/programs/rambler_and_co
+VK Play,VK,vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,api.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,profile.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,community.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,market.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,avatar.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,support.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,account.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,ac-ac.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,ac-int.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,auth-ac.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,c.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,o2-ac.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,streams.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,media.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,documentation.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,cloud.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,gof.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,developers.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,*.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,pvp.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,chat.vkplay.ru,vkplay.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK Play,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/vkplay_vk
+VK HR Tek,VK,vkdoc.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+VK HR Tek,VK,*.vkdoc.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+VK HR Tek,VK,onecvk.vkdoc.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+VK HR Tek,VK,public-api.vkdoc.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+VK HR Tek,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+VK HR Tek,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+VK HR Tek,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+VK HR Tek,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+VK HR Tek,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+VK HR Tek,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+VK HR Tek,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/hrtek_vk
+Чемпионаты VK,VK,*.gamescup.ru,gamescup.ru,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,*.cups.online,cups.online,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,tracker.cups.online,cups.online,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,gamescup.ru,gamescup.ru,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,mlbootcamp.ru,mlbootcamp.ru,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,russiandesigncup.ru,russiandesigncup.ru,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,highloadcup.ru,highloadcup.ru,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,aicups.ru,aicups.ru,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+Чемпионаты VK,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/all_cup_vk
+VK Реклама,VK,target.my.com,my.com,https://bugbounty.standoff365.com/en-US/programs/target_vk
+VK Реклама,VK,target.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/target_vk
+VK Реклама,VK,adblogger.vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/target_vk
+VK Реклама,VK,adblogger.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/target_vk
+VK Реклама,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/target_vk
+VK Реклама,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/target_vk
+VK Реклама,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/target_vk
+VK Реклама,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/target_vk
+VK Реклама,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/target_vk
+VK Реклама,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/target_vk
+VK Реклама,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/target_vk
+Консоль,Консоль,api.konsol.pro,konsol.pro,https://bugbounty.standoff365.com/en-US/programs/konsol
+Консоль,Консоль,cards.konsol.pro,konsol.pro,https://bugbounty.standoff365.com/en-US/programs/konsol
+Консоль,Консоль,app.konsol.pro,konsol.pro,https://bugbounty.standoff365.com/en-US/programs/konsol
+Консоль,Консоль,psb.konsol.pro,konsol.pro,https://bugbounty.standoff365.com/en-US/programs/konsol
+Консоль,Консоль,*.konsol.team,konsol.team,https://bugbounty.standoff365.com/en-US/programs/konsol
+Консоль,Консоль,app.algorithm24.ru,algorithm24.ru,https://bugbounty.standoff365.com/en-US/programs/konsol
+Консоль,Консоль,konsol.team,konsol.team,https://bugbounty.standoff365.com/en-US/programs/konsol
+Консоль,Консоль,chat.konsol.team,konsol.team,https://bugbounty.standoff365.com/en-US/programs/konsol
+Консоль,Консоль,vpn.konsol.pro,konsol.pro,https://bugbounty.standoff365.com/en-US/programs/konsol
+Консоль,Консоль,konsol.pro,konsol.pro,https://bugbounty.standoff365.com/en-US/programs/konsol
+Консоль,Консоль,poxa.konsol.pro,konsol.pro,https://bugbounty.standoff365.com/en-US/programs/konsol
+VK Pay,VK,vkpay.com,vkpay.com,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,api.money.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,cpg.money.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,dbo.money.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,merch-cpg.money.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,pw.money.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,sbp.money.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,sbp-agent.money.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,sbp-gost.money.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,*.vkpay.io,vkpay.io,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,*.vkpay.com,vkpay.com,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,*.vkpay.app,vkpay.app,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,*.money.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,installment.vkpay.com,vkpay.com,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,stat.money.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK Pay,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/vkpay_vk
+VK WorkSpace,VK,workspace.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,app.workspace.vk.ru,vk.ru,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,biz.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,*.myteam.vmailru.net,vmailru.net,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,*.myteam.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,*.support.biz.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+VK WorkSpace,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/vkworkspace_vk
+RuStore,RuStore,rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,www.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,api.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,admin-backapi.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,admin.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,apps.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,backapi.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,back.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,console.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,dev.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,pay-backapi.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,static.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,upload.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,*.rustore.ru,rustore.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/rustore
+RuStore,RuStore,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/rustore
+Госуслуги,Минцифры России,www.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,vkapp.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,vkminiapp.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,culture.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,auto.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,invest.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,payment.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,eln.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,freeinternet.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,knd.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,map.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,news.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,partners.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,profidigital.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,roles.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,rta.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,track-email.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,im.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,geps.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,widget.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,vku.test.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,public-crm.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,info.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,elections.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,lkparty.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,voter.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,candidate.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Госуслуги,Минцифры России,commission.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gosuslugi
+Единая система идентификации и аутентификации,Минцифры России,esia.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/esia
+Единая система идентификации и аутентификации,Минцифры России,af.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/esia
+Единая система идентификации и аутентификации,Минцифры России,ds-plugin.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/esia
+Standoff 365,Standoff 365,market.stf365.com,stf365.com,https://bugbounty.standoff365.com/en-US/programs/standoff-365
+Т-Банк,Т-Банк,tbank.ru,tbank.ru,https://bugbounty.standoff365.com/en-US/programs/tbank
+Т-Банк,Т-Банк,tinkoff.ru,tinkoff.ru,https://bugbounty.standoff365.com/en-US/programs/tbank
+Т-Банк,Т-Банк,tcsbank.ru,tcsbank.ru,https://bugbounty.standoff365.com/en-US/programs/tbank
+Т-Банк,Т-Банк,tinkoffinsurance.ru,tinkoffinsurance.ru,https://bugbounty.standoff365.com/en-US/programs/tbank
+Т-Банк,Т-Банк,ai.tbank.ru,tbank.ru,https://bugbounty.standoff365.com/en-US/programs/tbank
+Т-Банк,Т-Банк,*.tbank.ru,tbank.ru,https://bugbounty.standoff365.com/en-US/programs/tbank
+Т-Банк,Т-Банк,*.tinkoff.ru,tinkoff.ru,https://bugbounty.standoff365.com/en-US/programs/tbank
+Т-Банк,Т-Банк,*.tcsbank.ru,tcsbank.ru,https://bugbounty.standoff365.com/en-US/programs/tbank
+Т-Банк,Т-Банк,*.tinkoffinsurance.ru,tinkoffinsurance.ru,https://bugbounty.standoff365.com/en-US/programs/tbank
+Т-Банк,Т-Банк,apps.to,apps.to,https://bugbounty.standoff365.com/en-US/programs/tbank
+Wildberries,Wildberries,*.wildberries.ru,wildberries.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,*.wb.ru,wb.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,*.rwb.ru,rwb.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,*.paywb.com,paywb.com,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,*.paywb.ru,paywb.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,*.wb-bank.ru,wb-bank.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,*.wbwh.ru,wbwh.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,*.wbbasket.ru,wbbasket.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,*.wbwh.tech,wbwh.tech,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,*.wbheld.ru,wbheld.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,www.wildberries.ru,wildberries.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,com.wildberries.ru,wildberries.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,seller.wildberries.ru,wildberries.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,cmp.wildberries.ru,wildberries.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,alpha.paywb.com,paywb.com,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,beta.paywb.com,paywb.com,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,wb-bank.ru,wb-bank.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Wildberries,Wildberries,finance.wb.ru,wb.ru,https://bugbounty.standoff365.com/en-US/programs/wildberries
+Единая биометрическая система,Минцифры России,ebs.ru,ebs.ru,https://bugbounty.standoff365.com/en-US/programs/gov-ebs
+Единая биометрическая система,Минцифры России,gost.ebs.ru,ebs.ru,https://bugbounty.standoff365.com/en-US/programs/gov-ebs
+Единая биометрическая система,Минцифры России,rsa.ebs.ru,ebs.ru,https://bugbounty.standoff365.com/en-US/programs/gov-ebs
+Единая биометрическая система,Минцифры России,bi-dashboards.ebs.ru,ebs.ru,https://bugbounty.standoff365.com/en-US/programs/gov-ebs
+Единая биометрическая система,Минцифры России,cdp.ebs.ru,ebs.ru,https://bugbounty.standoff365.com/en-US/programs/gov-ebs
+Единая биометрическая система,Минцифры России,2tls.ebs.ru,ebs.ru,https://bugbounty.standoff365.com/en-US/programs/gov-ebs
+ATI.SU,ATI.SU,ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,job.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,trace.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,userdata.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,billing.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,api.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,help.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,id.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,d.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,tenders.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,trucks.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,r1.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,files.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,loads.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,faq.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,about.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,news.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,adv.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,chat.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,academy.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,zen.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,*.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,tm.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+ATI.SU,ATI.SU,forums.ati.su,ati.su,https://bugbounty.standoff365.com/en-US/programs/ati_su
+hh.ru,hh.ru,hh.ru,hh.ru,https://bugbounty.standoff365.com/en-US/programs/hh
+hh.ru,hh.ru,api.hh.ru,hh.ru,https://bugbounty.standoff365.com/en-US/programs/hh
+hh.ru,hh.ru,dev.hh.ru,hh.ru,https://bugbounty.standoff365.com/en-US/programs/hh
+hh.ru,hh.ru,talantix.ru,talantix.ru,https://bugbounty.standoff365.com/en-US/programs/hh
+hh.ru,hh.ru,setka.ru,setka.ru,https://bugbounty.standoff365.com/en-US/programs/hh
+hh.ru,hh.ru,api.setka.ru,setka.ru,https://bugbounty.standoff365.com/en-US/programs/hh
+Платформа обратной связи (Госуслуги Решаем вместе),Минцифры России,ku-gp.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-pos
+Платформа обратной связи (Госуслуги Решаем вместе),Минцифры России,kr-gp.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-pos
+Платформа обратной связи (Госуслуги Решаем вместе),Минцифры России,vur-gp.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-pos
+Платформа обратной связи (Госуслуги Решаем вместе),Минцифры России,kb-gp.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-pos
+Платформа обратной связи (Госуслуги Решаем вместе),Минцифры России,im.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-pos
+Платформа обратной связи (Госуслуги Решаем вместе),Минцифры России,pos.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-pos
+Платформа обратной связи (Госуслуги Решаем вместе),Минцифры России,fkgs.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-pos
+Система межведомственного электронного взаимодействия,Минцифры России,smev3.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-smev
+Национальная система управления данными,Минцифры России,nsud.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-nsud
+Национальная система управления данными,Минцифры России,lkuv.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-nsud
+Головной удостоверяющий центр,Минцифры России,e-trust.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-e-trust
+Единая система нормативной справочной информации,Минцифры России,esnsi.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-esnsi
+Госвеб,Минцифры России,*.gosweb.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-gosweb
+PT Cloud AF,Positive Technologies,*.ptcloud.ru,ptcloud.ru,https://bugbounty.standoff365.com/en-US/programs/ptcloud
+PT Cloud AF,Positive Technologies,ptcloud.ru,ptcloud.ru,https://bugbounty.standoff365.com/en-US/programs/ptcloud
+Магнит,Магнит,id.magnit.ru,magnit.ru,https://bugbounty.standoff365.com/en-US/programs/magnit
+Магнит,Магнит,middle-api.magnit.ru,magnit.ru,https://bugbounty.standoff365.com/en-US/programs/magnit
+Магнит,Магнит,magnit.ru,magnit.ru,https://bugbounty.standoff365.com/en-US/programs/magnit
+Магнит,Магнит,my.magnit.ru,magnit.ru,https://bugbounty.standoff365.com/en-US/programs/magnit
+Магнит,Магнит,hi.tander.ru,tander.ru,https://bugbounty.standoff365.com/en-US/programs/magnit
+Магнит,Магнит,*.magnit.ru,magnit.ru,https://bugbounty.standoff365.com/en-US/programs/magnit
+Магнит,Магнит,*.magnit.com,magnit.com,https://bugbounty.standoff365.com/en-US/programs/magnit
+Магнит,Магнит,*.tander.ru,tander.ru,https://bugbounty.standoff365.com/en-US/programs/magnit
+Ozon,Ozon,*.ozon.ru,ozon.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,ozon.ru,ozon.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,*.finance.ozon.ru,ozon.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,*.o3t.ru,o3t.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,o3t.ru,o3t.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,*.o3team.ru,o3team.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,o3team.ru,o3team.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,*.ozon-dostavka.ru,ozon-dostavka.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,ozon-dostavka.ru,ozon-dostavka.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,*.o3.ru,o3.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,o3.ru,o3.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,*.ozonpartners.ru,ozonpartners.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,ozonpartners.ru,ozonpartners.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,*.ozone.ru,ozone.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Ozon,Ozon,www.ozon.ru,ozon.ru,https://bugbounty.standoff365.com/en-US/programs/ozon
+Самокат,Самокат,api.samokat.ru,samokat.ru,https://bugbounty.standoff365.com/en-US/programs/samokat
+Самокат,Самокат,ru.sbcs.store,sbcs.store,https://bugbounty.standoff365.com/en-US/programs/samokat
+Самокат,Самокат,*.samokat.io,samokat.io,https://bugbounty.standoff365.com/en-US/programs/samokat
+Самокат,Самокат,api-web.samokat.ru,samokat.ru,https://bugbounty.standoff365.com/en-US/programs/samokat
+Самокат,Самокат,*.samokat.ru,samokat.ru,https://bugbounty.standoff365.com/en-US/programs/samokat
+Самокат,Самокат,samokat.ru,samokat.ru,https://bugbounty.standoff365.com/en-US/programs/samokat
+Okko,Okko,api.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,auth.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,auth.playfamily.ru,playfamily.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,auth2.playfamily.ru,playfamily.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,cabinet.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,cabinet-rus.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,cdp.playfamily.ru,playfamily.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,config.tvgateway.ru,tvgateway.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,ctx.playfamily.ru,playfamily.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,drm.playfamily.ru,playfamily.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,game.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,lge.yotaplay.ru,yotaplay.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,lgebd.yotaplay.ru,yotaplay.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,mimimi.okko.team,okko.team,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,mimimi.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,nettv4.playfamily.ru,playfamily.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,nex.okko.team,okko.team,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,okko.ru,okko.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,oscars.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,ovpn.okko.team,okko.team,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,panasonic.yotaplay.ru,yotaplay.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,panasonicbd.yotaplay.ru,yotaplay.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,payments.playfamily.ru,playfamily.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,plato.okko.team,okko.team,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,plato1.okko.team,okko.team,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,plato2.okko.team,okko.team,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,playbackstatus.playfamily.ru,playfamily.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,player.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,pobeda.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,secrets.okko.team,okko.team,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,stat.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,stat.playfamily.ru,playfamily.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,stat2.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,static.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,tvgateway.ru,tvgateway.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,tvxx-server.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,tv.yotaplay.ru,yotaplay.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,*.okko.tv,okko.tv,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,*.playfamily.ru,playfamily.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+Okko,Okko,*.tvgateway.ru,tvgateway.ru,https://bugbounty.standoff365.com/en-US/programs/okko
+VK Education,VK,education.vk.company,vk.company,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,davmedia.gtp.tech-mail.ru,tech-mail.ru,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,gamesphere.ru,gamesphere.ru,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,data.vk.company,vk.company,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,polis.vk.company,vk.company,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,park.vk.company,vk.company,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,sphere.vk.company,vk.company,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,track.vk.company,vk.company,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,technoatom.vk.company,vk.company,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/education_vk
+VK Education,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/education_vk
+Контур,Контур,*.kontur.ru,kontur.ru,https://bugbounty.standoff365.com/en-US/programs/kontur
+Контур,Контур,*.skbkontur.ru,skbkontur.ru,https://bugbounty.standoff365.com/en-US/programs/kontur
+Контур,Контур,*.kontur.host,kontur.host,https://bugbounty.standoff365.com/en-US/programs/kontur
+Контур,Контур,class.kontur.ru,kontur.ru,https://bugbounty.standoff365.com/en-US/programs/kontur
+Контур,Контур,school.kontur.ru,kontur.ru,https://bugbounty.standoff365.com/en-US/programs/kontur
+Контур,Контур,academy.kontur.ru,kontur.ru,https://bugbounty.standoff365.com/en-US/programs/kontur
+Контур,Контур,d.kontur.ru,kontur.ru,https://bugbounty.standoff365.com/en-US/programs/kontur
+Контур,Контур,com.kontur.bank,kontur.bank,https://bugbounty.standoff365.com/en-US/programs/kontur
+Контур,Контур,kontur.bank,kontur.bank,https://bugbounty.standoff365.com/en-US/programs/kontur
+Rambler&Co. Портал «Рамблер»: почта и агрегатор новостей,Rambler&Co,rm.rambler-co.ru,rambler-co.ru,https://bugbounty.standoff365.com/en-US/programs/portal_rambler
+Rambler&Co. Портал «Рамблер»: почта и агрегатор новостей,Rambler&Co,id.rambler.ru,rambler.ru,https://bugbounty.standoff365.com/en-US/programs/portal_rambler
+Rambler&Co. Портал «Рамблер»: почта и агрегатор новостей,Rambler&Co,store.rambler.ru,rambler.ru,https://bugbounty.standoff365.com/en-US/programs/portal_rambler
+Rambler&Co. Портал «Рамблер»: почта и агрегатор новостей,Rambler&Co,*.rambler.ru,rambler.ru,https://bugbounty.standoff365.com/en-US/programs/portal_rambler
+Компания «Афиша»,Rambler&Co,rm.rambler-co.ru,rambler-co.ru,https://bugbounty.standoff365.com/en-US/programs/afisha_ru
+Компания «Афиша»,Rambler&Co,id.rambler.ru,rambler.ru,https://bugbounty.standoff365.com/en-US/programs/afisha_ru
+Компания «Афиша»,Rambler&Co,store.rambler.ru,rambler.ru,https://bugbounty.standoff365.com/en-US/programs/afisha_ru
+Компания «Афиша»,Rambler&Co,*.afisha.ru,afisha.ru,https://bugbounty.standoff365.com/en-US/programs/afisha_ru
+Компания «Афиша»,Rambler&Co,*.daily.afisha.ru,afisha.ru,https://bugbounty.standoff365.com/en-US/programs/afisha_ru
+Компания «Афиша»,Rambler&Co,afisha.ru,afisha.ru,https://bugbounty.standoff365.com/en-US/programs/afisha_ru
+Компания «Афиша»,Rambler&Co,*.eda.ru,eda.ru,https://bugbounty.standoff365.com/en-US/programs/afisha_ru
+Rambler&Co. Блог-платформа LiveJournal,Rambler&Co,rm.rambler-co.ru,rambler-co.ru,https://bugbounty.standoff365.com/en-US/programs/LiveJournal
+Rambler&Co. Блог-платформа LiveJournal,Rambler&Co,store.rambler.ru,rambler.ru,https://bugbounty.standoff365.com/en-US/programs/LiveJournal
+Rambler&Co. Блог-платформа LiveJournal,Rambler&Co,www.livejournal.com,livejournal.com,https://bugbounty.standoff365.com/en-US/programs/LiveJournal
+Точка Банк,Точка Банк,tochka.com,tochka.com,https://bugbounty.standoff365.com/en-US/programs/tochka
+Точка Банк,Точка Банк,allo.tochka.com,tochka.com,https://bugbounty.standoff365.com/en-US/programs/tochka
+Точка Банк,Точка Банк,shop.tochka.com,tochka.com,https://bugbounty.standoff365.com/en-US/programs/tochka
+Точка Банк,Точка Банк,*.tochka-tech.com,tochka-tech.com,https://bugbounty.standoff365.com/en-US/programs/tochka
+Точка Банк,Точка Банк,*.tochka.com,tochka.com,https://bugbounty.standoff365.com/en-US/programs/tochka
+Rambler&Co. Спорт,Rambler&Co,rm.rambler-co.ru,rambler-co.ru,https://bugbounty.standoff365.com/en-US/programs/ramblerco_sport
+Rambler&Co. Спорт,Rambler&Co,id.rambler.ru,rambler.ru,https://bugbounty.standoff365.com/en-US/programs/ramblerco_sport
+Rambler&Co. Спорт,Rambler&Co,store.rambler.ru,rambler.ru,https://bugbounty.standoff365.com/en-US/programs/ramblerco_sport
+Rambler&Co. Спорт,Rambler&Co,*.championat.com,championat.com,https://bugbounty.standoff365.com/en-US/programs/ramblerco_sport
+Rambler&Co. Спорт,Rambler&Co,tickets.championat.com,championat.com,https://bugbounty.standoff365.com/en-US/programs/ramblerco_sport
+Rambler&Co,Rambler&Co,lenta.ru,lenta.ru,https://bugbounty.standoff365.com/en-US/programs/rambler-apt
+Rambler&Co,Rambler&Co,gazeta.ru,gazeta.ru,https://bugbounty.standoff365.com/en-US/programs/rambler-apt
+Timeweb,Timeweb,timeweb.com,timeweb.com,https://bugbounty.standoff365.com/en-US/programs/timeweb
+Timeweb,Timeweb,mail.timeweb.com,timeweb.com,https://bugbounty.standoff365.com/en-US/programs/timeweb
+СберЛогистика,Сберлогистика,vpn.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,app-tmg.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,*.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,adss.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,ui-rps.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,*.sberlogistics.ru,sberlogistics.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,smail.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,steersman.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,rse.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,csm.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,sso.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,job.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,beautyapp.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,talent.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,ftpsmm.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,courier-api.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,job.sberlogistics.ru,sberlogistics.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,address-processing.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,cfapi.sberlogistics.ru,sberlogistics.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,compass.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,talent.sberlogistics.ru,sberlogistics.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,tarrifs.sberlogistics.ru,sberlogistics.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,sberlogistics.ru,sberlogistics.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,lisa.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,*.shiptor.ru,shiptor.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,lk.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,sorting.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,*.shiptor.com,shiptor.com,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,retailcrm.sberlogistics.ru,sberlogistics.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,shiptor.ru,shiptor.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,sogo.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,zappstore.pro,zappstore.pro,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,otrs.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,*.zappstore.pro,zappstore.pro,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,chat.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,insales.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,woo.shiptor.ru,shiptor.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,widget.shiptor.ru,shiptor.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,postamat.shiptor.ru,shiptor.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,cfweb.sberlogistics.ru,sberlogistics.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,totrs.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,tui-rps.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,tbeautyapp.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,tchat.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,tadss.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,tftpsmm.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,tinsales.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,tsteersman.sblogistica.ru,sblogistica.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,twoo.shiptor.ru,shiptor.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,twidget.shiptor.ru,shiptor.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,tpostamat.shiptor.ru,shiptor.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,tcfapi.sberlogistics.ru,sberlogistics.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+СберЛогистика,Сберлогистика,tcfweb.sberlogistics.ru,sberlogistics.ru,https://bugbounty.standoff365.com/en-US/programs/sberlogistics
+VK Видео,VK,vkvideo.ru,vkvideo.ru,https://bugbounty.standoff365.com/en-US/programs/vk_video
+VK Видео,VK,m.vkvideo.ru,vkvideo.ru,https://bugbounty.standoff365.com/en-US/programs/vk_video
+VK Видео,VK,api.vkvideo.ru,vkvideo.ru,https://bugbounty.standoff365.com/en-US/programs/vk_video
+VK Видео,VK,live.vkvideo.ru,vkvideo.ru,https://bugbounty.standoff365.com/en-US/programs/vk_video
+VK Видео,VK,api.live.vkvideo.ru,vkvideo.ru,https://bugbounty.standoff365.com/en-US/programs/vk_video
+VK Видео,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vk_video
+VK Видео,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/vk_video
+VK Видео,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vk_video
+VK Видео,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/vk_video
+VK Видео,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vk_video
+VK Видео,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/vk_video
+VK Видео,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/vk_video
+Купер,Купер,kuper.ru,kuper.ru,https://bugbounty.standoff365.com/en-US/programs/kuper
+Купер,Купер,api.kuper.ru,kuper.ru,https://bugbounty.standoff365.com/en-US/programs/kuper
+Купер,Купер,business.kuper.ru,kuper.ru,https://bugbounty.standoff365.com/en-US/programs/kuper
+Купер,Купер,restaurants.restnproducts.ru,restnproducts.ru,https://bugbounty.standoff365.com/en-US/programs/kuper
+Купер,Купер,restaurants.kuper.ru,kuper.ru,https://bugbounty.standoff365.com/en-US/programs/kuper
+Купер,Купер,retailers.kuper.ru,kuper.ru,https://bugbounty.standoff365.com/en-US/programs/kuper
+Купер,Купер,retailers-gw.restnproducts.ru,restnproducts.ru,https://bugbounty.standoff365.com/en-US/programs/kuper
+Купер,Купер,retailers-gw.sbermarket.ru,sbermarket.ru,https://bugbounty.standoff365.com/en-US/programs/kuper
+Купер,Купер,shp-gw.restnproducts.ru,restnproducts.ru,https://bugbounty.standoff365.com/en-US/programs/kuper
+Купер,Купер,*.kuper.ru,kuper.ru,https://bugbounty.standoff365.com/en-US/programs/kuper
+Купер,Купер,cpa.kuper.ru,kuper.ru,https://bugbounty.standoff365.com/en-US/programs/kuper
+Инфосистемы Джет,Инфосистемы Джет,jet.su,jet.su,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,jetinfosystems.com,jetinfosystems.com,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,jetinfo.ru,jetinfo.ru,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,jetinfo.com,jetinfo.com,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,jetinfo.su,jetinfo.su,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,jetcybercamp.ru,jetcybercamp.ru,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,cybercamp.su,cybercamp.su,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,jetcsirt.su,jetcsirt.su,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,jetcsirt.ru,jetcsirt.ru,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,csirt.ru,csirt.ru,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,csirt.su,csirt.su,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,it-elements.ru,it-elements.ru,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+Инфосистемы Джет,Инфосистемы Джет,it-elements.com,it-elements.com,https://bugbounty.standoff365.com/en-US/programs/jetinfosystems
+TimewebTech,Timeweb,timeweb.tech,timeweb.tech,https://bugbounty.standoff365.com/en-US/programs/timewebtech
+TimewebCloud,Timeweb,s3.timeweb.cloud,timeweb.cloud,https://bugbounty.standoff365.com/en-US/programs/timewebcloud
+TimewebCloud,Timeweb,public-api.timeweb.com,timeweb.com,https://bugbounty.standoff365.com/en-US/programs/timewebcloud
+Craftum,Craftum,craftum.com,craftum.com,https://bugbounty.standoff365.com/en-US/programs/craftum
+ЮMoney,ЮMoney,*.yoomoney.ru,yoomoney.ru,https://bugbounty.standoff365.com/en-US/programs/yoomoney
+ЮMoney,ЮMoney,*.yookassa.ru,yookassa.ru,https://bugbounty.standoff365.com/en-US/programs/yoomoney
+ЮMoney,ЮMoney,*.yoobusiness.ru,yoobusiness.ru,https://bugbounty.standoff365.com/en-US/programs/yoomoney
+ЮMoney,ЮMoney,demo.yookassa.ru,yookassa.ru,https://bugbounty.standoff365.com/en-US/programs/yoomoney
+MAX,VK,*.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,*.max.ru,max.ru,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,frontend.sferum-dev.ru,sferum-dev.ru,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,platform-api.sferum-dev.ru,sferum-dev.ru,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,calls.okcdn.ru,okcdn.ru,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,videowebrtc.okcdn.ru,okcdn.ru,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,ru.oneme.app,oneme.app,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,vk.com,vk.com,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,*.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,*.go.mail.ru,mail.ru,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,*.m.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,*.i.smailru.net,smailru.net,https://bugbounty.standoff365.com/en-US/programs/max
+MAX,VK,proxy.oneme.ru,oneme.ru,https://bugbounty.standoff365.com/en-US/programs/max
+Информационные ресурсы Челябинской области,"Министерство информационных технологий, связи и цифрового развития  Челябинской области",ipriem.gov74.ru,gov74.ru,https://bugbounty.standoff365.com/en-US/programs/chelyabinskobl
+Информационные ресурсы Челябинской области,"Министерство информационных технологий, связи и цифрового развития  Челябинской области",mon-pmo.gov74.ru,gov74.ru,https://bugbounty.standoff365.com/en-US/programs/chelyabinskobl
+Информационные ресурсы Челябинской области,"Министерство информационных технологий, связи и цифрового развития  Челябинской области",tr.gov74.ru,gov74.ru,https://bugbounty.standoff365.com/en-US/programs/chelyabinskobl
+Информационные ресурсы Челябинской области,"Министерство информационных технологий, связи и цифрового развития  Челябинской области",portalipra.gov74.ru,gov74.ru,https://bugbounty.standoff365.com/en-US/programs/chelyabinskobl
+Информационные ресурсы Челябинской области,"Министерство информационных технологий, связи и цифрового развития  Челябинской области",digital-archive.gov74.ru,gov74.ru,https://bugbounty.standoff365.com/en-US/programs/chelyabinskobl
+Информационные ресурсы Челябинской области,"Министерство информационных технологий, связи и цифрового развития  Челябинской области",hero.gov74.ru,gov74.ru,https://bugbounty.standoff365.com/en-US/programs/chelyabinskobl
+Информационные ресурсы Челябинской области,"Министерство информационных технологий, связи и цифрового развития  Челябинской области",svo.gov74.ru,gov74.ru,https://bugbounty.standoff365.com/en-US/programs/chelyabinskobl
+ФРГУ,Минцифры России,kcr.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-frgu
+ФРГУ,Минцифры России,frgu3.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-frgu
+ФГИС ДО,Минцифры России,do.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/gov-do
+БКС Банк,БКС Банк,*.bcs-bank.ru,bcs-bank.ru,https://bugbounty.standoff365.com/en-US/programs/bcs-bank
+БКС Брокер,БКС Мир Инвестиций,*.bcs.ru,bcs.ru,https://bugbounty.standoff365.com/en-US/programs/bcs
+БКС Брокер,БКС Мир Инвестиций,lkbank.bcs.ru,bcs.ru,https://bugbounty.standoff365.com/en-US/programs/bcs
+K2 Cloud,K2 Cloud,console.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,autoscaling.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,autoscaling.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,backup.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,backup.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,cloudtrail.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,cloudtrail.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,cloudwatch.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,cloudwatch.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,directconnect.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,directconnect.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,ec2.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,ec2.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,efs.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,efs.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,eks.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,eks.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,elb.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,elb.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,ext.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,ext.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,iam.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,paas.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,paas.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,primary.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,route53.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,ru-msk.console.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,ru-spb.console.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,s3.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,s3.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,*.elastic.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,*.website.ru-msk.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+K2 Cloud,K2 Cloud,*.website.ru-spb.k2.cloud,k2.cloud,https://bugbounty.standoff365.com/en-US/programs/k2cloud
+Flowwow,Flowwow,apis.flowwow.com,flowwow.com,https://bugbounty.standoff365.com/en-US/programs/flowwow
+Flowwow,Flowwow,envio.flowwow.com,flowwow.com,https://bugbounty.standoff365.com/en-US/programs/flowwow
+Flowwow,Flowwow,api2.flowwow.com,flowwow.com,https://bugbounty.standoff365.com/en-US/programs/flowwow
+Flowwow,Flowwow,api-shop.flowwow.com,flowwow.com,https://bugbounty.standoff365.com/en-US/programs/flowwow
+Flowwow,Flowwow,api-email.flowwow.com,flowwow.com,https://bugbounty.standoff365.com/en-US/programs/flowwow
+Flowwow,Flowwow,clientweb.flowwow.com,flowwow.com,https://bugbounty.standoff365.com/en-US/programs/flowwow
+Flowwow,Flowwow,chats.flowwow.com,flowwow.com,https://bugbounty.standoff365.com/en-US/programs/flowwow
+PT NGFW,Positive Technologies,ptcloud.ru,ptcloud.ru,https://bugbounty.standoff365.com/en-US/programs/pt_ngfw
+Cloud․ru,Cloud․ru,cloud.ru,cloud.ru,https://bugbounty.standoff365.com/en-US/programs/cloud_ru
+Cloud․ru,Cloud․ru,console.cloud.ru,cloud.ru,https://bugbounty.standoff365.com/en-US/programs/cloud_ru
+Cloud․ru,Cloud․ru,*.api.cloud.ru,cloud.ru,https://bugbounty.standoff365.com/en-US/programs/cloud_ru
+MyReviews,Craftum,myreviews.ru,myreviews.ru,https://bugbounty.standoff365.com/en-US/programs/MyReviews
+MyReviews,Craftum,myreviews.dev,myreviews.dev,https://bugbounty.standoff365.com/en-US/programs/MyReviews
+MyReviews,Craftum,*.myreviews.dev,myreviews.dev,https://bugbounty.standoff365.com/en-US/programs/MyReviews
+ЕПГУ-Выборы,Минцифры России,elections.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/epgu
+ЕПГУ-Выборы,Минцифры России,lkparty.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/epgu
+ЕПГУ-Выборы,Минцифры России,voter.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/epgu
+ЕПГУ-Выборы,Минцифры России,candidate.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/epgu
+ЕПГУ-Выборы,Минцифры России,commission.gosuslugi.ru,gosuslugi.ru,https://bugbounty.standoff365.com/en-US/programs/epgu
+Setka,hh.ru,hh.ru,hh.ru,https://bugbounty.standoff365.com/en-US/programs/hh_setka
+Setka,hh.ru,setka.ru,setka.ru,https://bugbounty.standoff365.com/en-US/programs/hh_setka
+Setka,hh.ru,api.setka.ru,setka.ru,https://bugbounty.standoff365.com/en-US/programs/hh_setka
+Т-БКИ,Т-Банк,tbki.ru,tbki.ru,https://bugbounty.standoff365.com/en-US/programs/tbki
+Т-БКИ,Т-Банк,account.tbki.ru,tbki.ru,https://bugbounty.standoff365.com/en-US/programs/tbki
+Центральный Университет,Т-Банк,my.centraluniversity.ru,centraluniversity.ru,https://bugbounty.standoff365.com/en-US/programs/cu
+Центральный Университет,Т-Банк,id.centraluniversity.ru,centraluniversity.ru,https://bugbounty.standoff365.com/en-US/programs/cu
+Центральный Университет,Т-Банк,cu.ru,cu.ru,https://bugbounty.standoff365.com/en-US/programs/cu

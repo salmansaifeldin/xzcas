@@ -1,0 +1,844 @@
+1. Positive bug hunting  [Positive Technologies]  ->  ptsecurity.com
+      *.ptsecurity.com
+      *.ptsecurity.ru
+      *.maxpatrol.com
+      *.maxpatrol.ru
+      *.phdays.com
+      *.phdays.ru
+2. Азбука вкуса  [Азбука вкуса]  ->  azbukavkusa.ru
+      av.ru
+      azbukavkusa.ru
+      tender.av.ru
+      owa.azbukavkusa.ru
+      owa-test.azbukavkusa.ru
+      pool01.azbukavkusa.ru
+      pool02.azbukavkusa.ru
+      sip.azbukavkusa.ru
+      meet.azbukavkusa.ru
+      join.azbukavkusa.ru
+      autodiscover.azbukavkusa.ru
+      lyncdiscover.azbukavkusa.ru
+3. Почта, Облако и Календарь Mail.ru  [VK]  ->  mail.ru
+      mail.ru
+      ru.mail.cloud
+      e.mail.ru
+      touch.mail.ru
+      m.mail.ru
+      tel.mail.ru
+      light.mail.ru
+      octavius.mail.ru
+      smtp.mail.ru
+      mxs.mail.ru
+      pop.mail.ru
+      imap.mail.ru
+      cloud.mail.ru
+      calendar.mail.ru
+      wallet.mail.ru
+      vk.mail.ru
+      auth.mail.ru
+      o2.mail.ru
+      account.mail.ru
+      swa.mail.ru
+      id.mail.ru
+      contacts.mail.ru
+      notes.mail.ru
+      doc.mail.ru
+      board.vk.com
+      board.vk.ru
+      love.mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+4. ВКонтакте  [VK]  ->  vk.com
+      vk.com
+      vk.ru
+      m.vk.com
+      m.vk.ru
+      api.vk.com
+      api.vk.ru
+      login.vk.com
+      login.vk.ru
+      oauth.vk.com
+      oauth.vk.ru
+      *.vk.cc
+      *.vk.link
+      id.vk.com
+      id.vk.ru
+      dev.vk.com
+      dev.vk.ru
+      platform.vk.com
+      platform.vk.ru
+      *.vk-cdn.net
+      *.userapi.com
+      *.vkuser.net
+      mail.ru
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+5. Одноклассники  [VK]  ->  ok.ru
+      ok.ru
+      m.ok.ru
+      api.ok.ru
+      connect.ok.ru
+      paymentnew.ok.ru
+      api-hprof.odkl.ru
+      *.tamtam.chat
+      *.ok.ru
+      mycdn.me
+      *.mycdn.me
+      okcdn.ru
+      *.okcdn.ru
+      ok.me
+      apiok.ru
+      mail.ru
+      insideok.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+6. ТАРМ  [VK]  ->  smailru.net
+      armgs.team
+      *.armgs.team
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+7. VK Cloud  [VK]  ->  mail.ru
+      *.msk.cloud
+      cloud.vk.com
+      cloud.vk.ru
+      mcs.mail.ru
+      *.mcs.mail.ru
+      infra.mail.ru
+      features.mcs.mail.ru
+      support.mcs.mail.ru
+      support.tech.mail.ru
+      support.tech.vk.com
+      support.tech.vk.ru
+      kz.cloud.vk.com
+      kz.cloud.vk.ru
+      *.vkcs.cloud
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+8. VK: Все Другое  [VK]  ->  smailru.net
+      adblogger.vk.com
+      adblogger.vk.ru
+      *.taxmon.ru
+      vktech.ispring.ru
+      *.vkcs.cloud
+      *.algoritmika.org
+      *.yaklass.ru
+      *.umschool.net
+      *.code-class.ru
+      *.summerstage.ru
+      *.vk-stadium.ru
+      *.bargipsy.com
+      *.tetrika-school.ru
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+      uchi.ru
+9. Дзен  [VK]  ->  dzeninfra.ru
+      dzen.ru
+      cdn.dzen.ru
+      clck.dzen.ru
+      lkpo.dzen.ru
+      lkpo.preprod.dzen.ru
+      lkpo.prestable.dzen.ru
+      lkpo.test.dzen.ru
+      log.dzen.ru
+      m.dzen.ru
+      notify.dzen.ru
+      rc.dzen.ru
+      sso.dzen.ru
+      sso.rc.dzen.ru
+      vh-admin.dzen.ru
+      vhnews.dzen.ru
+      dzeninfra.ru
+      s3.dzeninfra.ru
+      api-ext-vh.dzeninfra.ru
+      api.vh.dzeninfra.ru
+      avatars.dzeninfra.ru
+      cold.cdn.dzeninfra.ru
+      csp.dzeninfra.ru
+      paste.dzeninfra.ru
+      selenium.dzeninfra.ru
+      setrace.dzeninfra.ru
+      src-ugc.dzeninfra.ru
+      static.dzeninfra.ru
+      vh-test.dzeninfra.ru
+      videohub.dzeninfra.ru
+      videohub.test.dzeninfra.ru
+      *.cdn.dzeninfra.ru
+      *.s3.dzeninfra.ru
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+10. Rambler&Co. Основные медиаактивы  [Rambler&Co]  ->  rambler.ru
+      rm.rambler-co.ru
+      id.rambler.ru
+      store.rambler.ru
+      *.lenta.ru
+      *.gazeta.ru
+      *.moslenta.ru
+      *.secretmag.ru
+      *.ferra.ru
+      *.quto.ru
+      *.motor.ru
+      *.letidor.ru
+      *.wmj.ru
+      *.passion.ru
+      lenta.ru
+      gazeta.ru
+      motor.ru
+      ferra.ru
+11. VK Play  [VK]  ->  vkplay.ru
+      vkplay.ru
+      api.vkplay.ru
+      profile.vkplay.ru
+      community.vkplay.ru
+      market.vkplay.ru
+      avatar.vkplay.ru
+      support.vkplay.ru
+      account.vkplay.ru
+      ac-ac.vkplay.ru
+      ac-int.vkplay.ru
+      auth-ac.vkplay.ru
+      c.vkplay.ru
+      o2-ac.vkplay.ru
+      streams.vkplay.ru
+      media.vkplay.ru
+      documentation.vkplay.ru
+      cloud.vkplay.ru
+      gof.vkplay.ru
+      developers.vkplay.ru
+      *.vkplay.ru
+      pvp.vkplay.ru
+      chat.vkplay.ru
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+12. VK HR Tek  [VK]  ->  mail.ru
+      vkdoc.mail.ru
+      *.vkdoc.mail.ru
+      onecvk.vkdoc.mail.ru
+      public-api.vkdoc.mail.ru
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+13. Чемпионаты VK  [VK]  ->  smailru.net
+      *.gamescup.ru
+      *.cups.online
+      tracker.cups.online
+      gamescup.ru
+      mlbootcamp.ru
+      russiandesigncup.ru
+      highloadcup.ru
+      aicups.ru
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+14. VK Реклама  [VK]  ->  smailru.net
+      target.my.com
+      target.vk.ru
+      adblogger.vk.com
+      adblogger.vk.ru
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+15. Positive dream hunting  [Positive Technologies]  ->  -
+16. Консоль  [Консоль]  ->  konsol.pro
+      api.konsol.pro
+      cards.konsol.pro
+      app.konsol.pro
+      psb.konsol.pro
+      *.konsol.team
+      app.algorithm24.ru
+      konsol.team
+      chat.konsol.team
+      vpn.konsol.pro
+      konsol.pro
+      poxa.konsol.pro
+17. VK Pay  [VK]  ->  mail.ru
+      vkpay.com
+      api.money.mail.ru
+      cpg.money.mail.ru
+      dbo.money.mail.ru
+      merch-cpg.money.mail.ru
+      pw.money.mail.ru
+      sbp.money.mail.ru
+      sbp-agent.money.mail.ru
+      sbp-gost.money.mail.ru
+      *.vkpay.io
+      *.vkpay.com
+      *.vkpay.app
+      *.money.mail.ru
+      installment.vkpay.com
+      stat.money.mail.ru
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+18. VK WorkSpace  [VK]  ->  mail.ru
+      workspace.vk.ru
+      app.workspace.vk.ru
+      biz.mail.ru
+      *.myteam.vmailru.net
+      *.myteam.mail.ru
+      *.support.biz.mail.ru
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+19. RuStore  [RuStore]  ->  rustore.ru
+      rustore.ru
+      www.rustore.ru
+      api.rustore.ru
+      admin-backapi.rustore.ru
+      admin.rustore.ru
+      apps.rustore.ru
+      backapi.rustore.ru
+      back.rustore.ru
+      console.rustore.ru
+      dev.rustore.ru
+      pay-backapi.rustore.ru
+      static.rustore.ru
+      upload.rustore.ru
+      *.rustore.ru
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+20. Госуслуги  [Минцифры России]  ->  gosuslugi.ru
+      www.gosuslugi.ru
+      vkapp.gosuslugi.ru
+      vkminiapp.gosuslugi.ru
+      culture.gosuslugi.ru
+      auto.gosuslugi.ru
+      invest.gosuslugi.ru
+      payment.gosuslugi.ru
+      eln.gosuslugi.ru
+      freeinternet.gosuslugi.ru
+      knd.gosuslugi.ru
+      map.gosuslugi.ru
+      news.gosuslugi.ru
+      partners.gosuslugi.ru
+      profidigital.gosuslugi.ru
+      roles.gosuslugi.ru
+      rta.gosuslugi.ru
+      track-email.gosuslugi.ru
+      im.gosuslugi.ru
+      geps.gosuslugi.ru
+      widget.gosuslugi.ru
+      vku.test.gosuslugi.ru
+      public-crm.gosuslugi.ru
+      info.gosuslugi.ru
+      elections.gosuslugi.ru
+      lkparty.gosuslugi.ru
+      voter.gosuslugi.ru
+      candidate.gosuslugi.ru
+      commission.gosuslugi.ru
+21. Единая система идентификации и аутентификации  [Минцифры России]  ->  gosuslugi.ru
+      esia.gosuslugi.ru
+      af.gosuslugi.ru
+      ds-plugin.gosuslugi.ru
+22. Standoff 365  [Standoff 365]  ->  stf365.com
+      market.stf365.com
+23. Т-Банк  [Т-Банк]  ->  tbank.ru
+      tbank.ru
+      tinkoff.ru
+      tcsbank.ru
+      tinkoffinsurance.ru
+      ai.tbank.ru
+      *.tbank.ru
+      *.tinkoff.ru
+      *.tcsbank.ru
+      *.tinkoffinsurance.ru
+      apps.to
+24. Wildberries  [Wildberries]  ->  wildberries.ru
+      *.wildberries.ru
+      *.wb.ru
+      *.rwb.ru
+      *.paywb.com
+      *.paywb.ru
+      *.wb-bank.ru
+      *.wbwh.ru
+      *.wbbasket.ru
+      *.wbwh.tech
+      *.wbheld.ru
+      www.wildberries.ru
+      com.wildberries.ru
+      seller.wildberries.ru
+      cmp.wildberries.ru
+      alpha.paywb.com
+      beta.paywb.com
+      wb-bank.ru
+      finance.wb.ru
+25. Единая биометрическая система  [Минцифры России]  ->  ebs.ru
+      ebs.ru
+      gost.ebs.ru
+      rsa.ebs.ru
+      bi-dashboards.ebs.ru
+      cdp.ebs.ru
+      2tls.ebs.ru
+26. ATI.SU  [ATI.SU]  ->  ati.su
+      ati.su
+      job.ati.su
+      trace.ati.su
+      userdata.ati.su
+      billing.ati.su
+      api.ati.su
+      help.ati.su
+      id.ati.su
+      d.ati.su
+      tenders.ati.su
+      trucks.ati.su
+      r1.ati.su
+      files.ati.su
+      loads.ati.su
+      faq.ati.su
+      about.ati.su
+      news.ati.su
+      adv.ati.su
+      chat.ati.su
+      academy.ati.su
+      zen.ati.su
+      *.ati.su
+      tm.ati.su
+      forums.ati.su
+27. hh.ru  [hh.ru]  ->  hh.ru
+      hh.ru
+      api.hh.ru
+      dev.hh.ru
+      talantix.ru
+      setka.ru
+      api.setka.ru
+28. Платформа обратной связи (Госуслуги Решаем вместе)  [Минцифры России]  ->  gosuslugi.ru
+      ku-gp.gosuslugi.ru
+      kr-gp.gosuslugi.ru
+      vur-gp.gosuslugi.ru
+      kb-gp.gosuslugi.ru
+      im.gosuslugi.ru
+      pos.gosuslugi.ru
+      fkgs.gosuslugi.ru
+29. Система межведомственного электронного взаимодействия  [Минцифры России]  ->  gosuslugi.ru
+      smev3.gosuslugi.ru
+30. Национальная система управления данными  [Минцифры России]  ->  gosuslugi.ru
+      nsud.gosuslugi.ru
+      lkuv.gosuslugi.ru
+31. Головной удостоверяющий центр  [Минцифры России]  ->  gosuslugi.ru
+      e-trust.gosuslugi.ru
+32. Единая система нормативной справочной информации  [Минцифры России]  ->  gosuslugi.ru
+      esnsi.gosuslugi.ru
+33. Госвеб  [Минцифры России]  ->  gosuslugi.ru
+      *.gosweb.gosuslugi.ru
+34. PT Cloud AF  [Positive Technologies]  ->  ptcloud.ru
+      *.ptcloud.ru
+      ptcloud.ru
+35. Магнит  [Магнит]  ->  magnit.ru
+      id.magnit.ru
+      middle-api.magnit.ru
+      magnit.ru
+      my.magnit.ru
+      hi.tander.ru
+      *.magnit.ru
+      *.magnit.com
+      *.tander.ru
+36. Ozon  [Ozon]  ->  ozon.ru
+      *.ozon.ru
+      ozon.ru
+      *.finance.ozon.ru
+      *.o3t.ru
+      o3t.ru
+      *.o3team.ru
+      o3team.ru
+      *.ozon-dostavka.ru
+      ozon-dostavka.ru
+      *.o3.ru
+      o3.ru
+      *.ozonpartners.ru
+      ozonpartners.ru
+      *.ozone.ru
+      www.ozon.ru
+37. Самокат  [Самокат]  ->  samokat.ru
+      api.samokat.ru
+      ru.sbcs.store
+      *.samokat.io
+      api-web.samokat.ru
+      *.samokat.ru
+      samokat.ru
+38. Okko  [Okko]  ->  okko.tv
+      api.okko.tv
+      auth.okko.tv
+      auth.playfamily.ru
+      auth2.playfamily.ru
+      cabinet.okko.tv
+      cabinet-rus.okko.tv
+      cdp.playfamily.ru
+      config.tvgateway.ru
+      ctx.playfamily.ru
+      drm.playfamily.ru
+      game.okko.tv
+      lge.yotaplay.ru
+      lgebd.yotaplay.ru
+      mimimi.okko.team
+      mimimi.okko.tv
+      nettv4.playfamily.ru
+      nex.okko.team
+      okko.ru
+      okko.tv
+      oscars.okko.tv
+      ovpn.okko.team
+      panasonic.yotaplay.ru
+      panasonicbd.yotaplay.ru
+      payments.playfamily.ru
+      plato.okko.team
+      plato1.okko.team
+      plato2.okko.team
+      playbackstatus.playfamily.ru
+      player.okko.tv
+      pobeda.okko.tv
+      secrets.okko.team
+      stat.okko.tv
+      stat.playfamily.ru
+      stat2.okko.tv
+      static.okko.tv
+      tvgateway.ru
+      tvxx-server.okko.tv
+      tv.yotaplay.ru
+      *.okko.tv
+      *.playfamily.ru
+      *.tvgateway.ru
+39. Innostage  [Innostage]  ->  -
+40. VK Education  [VK]  ->  vk.company
+      education.vk.company
+      davmedia.gtp.tech-mail.ru
+      gamesphere.ru
+      data.vk.company
+      polis.vk.company
+      park.vk.company
+      sphere.vk.company
+      track.vk.company
+      technoatom.vk.company
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+41. Контур  [Контур]  ->  kontur.ru
+      *.kontur.ru
+      *.skbkontur.ru
+      *.kontur.host
+      class.kontur.ru
+      school.kontur.ru
+      academy.kontur.ru
+      d.kontur.ru
+      com.kontur.bank
+      kontur.bank
+42. Rambler&Co. Портал «Рамблер»: почта и агрегатор новостей  [Rambler&Co]  ->  rambler.ru
+      rm.rambler-co.ru
+      id.rambler.ru
+      store.rambler.ru
+      *.rambler.ru
+43. Компания «Афиша»  [Rambler&Co]  ->  afisha.ru
+      rm.rambler-co.ru
+      id.rambler.ru
+      store.rambler.ru
+      *.afisha.ru
+      *.daily.afisha.ru
+      afisha.ru
+      *.eda.ru
+44. Rambler&Co. Блог-платформа LiveJournal  [Rambler&Co]  ->  rambler-co.ru
+      rm.rambler-co.ru
+      store.rambler.ru
+      www.livejournal.com
+45. Точка Банк  [Точка Банк]  ->  tochka.com
+      tochka.com
+      allo.tochka.com
+      shop.tochka.com
+      *.tochka-tech.com
+      *.tochka.com
+46. Rambler&Co. Спорт  [Rambler&Co]  ->  rambler.ru
+      rm.rambler-co.ru
+      id.rambler.ru
+      store.rambler.ru
+      *.championat.com
+      tickets.championat.com
+47. Rambler&Co  [Rambler&Co]  ->  lenta.ru
+      lenta.ru
+      gazeta.ru
+48. Timeweb  [Timeweb]  ->  timeweb.com
+      timeweb.com
+      mail.timeweb.com
+49. СберЛогистика  [Сберлогистика]  ->  sblogistica.ru
+      vpn.sblogistica.ru
+      app-tmg.sblogistica.ru
+      *.sblogistica.ru
+      adss.sblogistica.ru
+      ui-rps.sblogistica.ru
+      *.sberlogistics.ru
+      smail.sblogistica.ru
+      steersman.sblogistica.ru
+      rse.sblogistica.ru
+      csm.sblogistica.ru
+      sso.sblogistica.ru
+      job.sblogistica.ru
+      beautyapp.sblogistica.ru
+      talent.sblogistica.ru
+      ftpsmm.sblogistica.ru
+      courier-api.sblogistica.ru
+      job.sberlogistics.ru
+      address-processing.sblogistica.ru
+      cfapi.sberlogistics.ru
+      compass.sblogistica.ru
+      talent.sberlogistics.ru
+      tarrifs.sberlogistics.ru
+      sberlogistics.ru
+      lisa.sblogistica.ru
+      *.shiptor.ru
+      lk.sblogistica.ru
+      sorting.sblogistica.ru
+      *.shiptor.com
+      retailcrm.sberlogistics.ru
+      shiptor.ru
+      sogo.sblogistica.ru
+      zappstore.pro
+      otrs.sblogistica.ru
+      *.zappstore.pro
+      chat.sblogistica.ru
+      insales.sblogistica.ru
+      woo.shiptor.ru
+      widget.shiptor.ru
+      postamat.shiptor.ru
+      cfweb.sberlogistics.ru
+      totrs.sblogistica.ru
+      tui-rps.sblogistica.ru
+      tbeautyapp.sblogistica.ru
+      tchat.sblogistica.ru
+      tadss.sblogistica.ru
+      tftpsmm.sblogistica.ru
+      tinsales.sblogistica.ru
+      tsteersman.sblogistica.ru
+      twoo.shiptor.ru
+      twidget.shiptor.ru
+      tpostamat.shiptor.ru
+      tcfapi.sberlogistics.ru
+      tcfweb.sberlogistics.ru
+50. VK Видео  [VK]  ->  vkvideo.ru
+      vkvideo.ru
+      m.vkvideo.ru
+      api.vkvideo.ru
+      live.vkvideo.ru
+      api.live.vkvideo.ru
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+51. Купер  [Купер]  ->  kuper.ru
+      kuper.ru
+      api.kuper.ru
+      business.kuper.ru
+      restaurants.restnproducts.ru
+      restaurants.kuper.ru
+      retailers.kuper.ru
+      retailers-gw.restnproducts.ru
+      retailers-gw.sbermarket.ru
+      shp-gw.restnproducts.ru
+      *.kuper.ru
+      cpa.kuper.ru
+52. Инфосистемы Джет  [Инфосистемы Джет]  ->  jet.su
+      jet.su
+      jetinfosystems.com
+      jetinfo.ru
+      jetinfo.com
+      jetinfo.su
+      jetcybercamp.ru
+      cybercamp.su
+      jetcsirt.su
+      jetcsirt.ru
+      csirt.ru
+      csirt.su
+      it-elements.ru
+      it-elements.com
+53. TimewebTech  [Timeweb]  ->  timeweb.tech
+      timeweb.tech
+54. TimewebCloud  [Timeweb]  ->  timeweb.cloud
+      s3.timeweb.cloud
+      public-api.timeweb.com
+55. Craftum  [Craftum]  ->  craftum.com
+      craftum.com
+56. ЮMoney  [ЮMoney]  ->  yookassa.ru
+      *.yoomoney.ru
+      *.yookassa.ru
+      *.yoobusiness.ru
+      demo.yookassa.ru
+57. MAX  [VK]  ->  smailru.net
+      *.oneme.ru
+      *.max.ru
+      frontend.sferum-dev.ru
+      platform-api.sferum-dev.ru
+      calls.okcdn.ru
+      videowebrtc.okcdn.ru
+      ru.oneme.app
+      mail.ru
+      vk.com
+      *.smailru.net
+      *.go.mail.ru
+      *.m.smailru.net
+      *.i.smailru.net
+      proxy.oneme.ru
+58. Информационные ресурсы Челябинской области  [Министерство информационных технологий, связи и цифрового развития  Челябинской области]  ->  gov74.ru
+      ipriem.gov74.ru
+      mon-pmo.gov74.ru
+      tr.gov74.ru
+      portalipra.gov74.ru
+      digital-archive.gov74.ru
+      hero.gov74.ru
+      svo.gov74.ru
+59. ФРГУ  [Минцифры России]  ->  gosuslugi.ru
+      kcr.gosuslugi.ru
+      frgu3.gosuslugi.ru
+60. ФГИС ДО  [Минцифры России]  ->  gosuslugi.ru
+      do.gosuslugi.ru
+61. БКС Банк  [БКС Банк]  ->  bcs-bank.ru
+      *.bcs-bank.ru
+62. БКС Брокер  [БКС Мир Инвестиций]  ->  bcs.ru
+      *.bcs.ru
+      lkbank.bcs.ru
+63. K2 Cloud  [K2 Cloud]  ->  k2.cloud
+      console.k2.cloud
+      autoscaling.ru-msk.k2.cloud
+      autoscaling.ru-spb.k2.cloud
+      backup.ru-msk.k2.cloud
+      backup.ru-spb.k2.cloud
+      cloudtrail.ru-msk.k2.cloud
+      cloudtrail.ru-spb.k2.cloud
+      cloudwatch.ru-msk.k2.cloud
+      cloudwatch.ru-spb.k2.cloud
+      directconnect.ru-msk.k2.cloud
+      directconnect.ru-spb.k2.cloud
+      ec2.ru-msk.k2.cloud
+      ec2.ru-spb.k2.cloud
+      efs.ru-msk.k2.cloud
+      efs.ru-spb.k2.cloud
+      eks.ru-msk.k2.cloud
+      eks.ru-spb.k2.cloud
+      elb.ru-msk.k2.cloud
+      elb.ru-spb.k2.cloud
+      ext.ru-msk.k2.cloud
+      ext.ru-spb.k2.cloud
+      iam.k2.cloud
+      paas.ru-msk.k2.cloud
+      paas.ru-spb.k2.cloud
+      primary.k2.cloud
+      route53.k2.cloud
+      ru-msk.console.k2.cloud
+      ru-spb.console.k2.cloud
+      s3.ru-msk.k2.cloud
+      s3.ru-spb.k2.cloud
+      *.elastic.k2.cloud
+      *.website.ru-msk.k2.cloud
+      *.website.ru-spb.k2.cloud
+64. Flowwow  [Flowwow]  ->  flowwow.com
+      apis.flowwow.com
+      envio.flowwow.com
+      api2.flowwow.com
+      api-shop.flowwow.com
+      api-email.flowwow.com
+      clientweb.flowwow.com
+      chats.flowwow.com
+65. Росфинмониторинг: Публичные сервисы  [Росфинмониторинг]  ->  -
+66. PT NGFW  [Positive Technologies]  ->  ptcloud.ru
+      ptcloud.ru
+67. PT NAD  [Positive Technologies]  ->  -
+68. MaxPatrol 360  [Positive Technologies]  ->  -
+69. Инфосистемы Джет (НС)  [Инфосистемы Джет]  ->  -
+70. MaxPatrol EDR  [Positive Technologies]  ->  -
+71. PT Dephaze  [Positive Technologies]  ->  -
+72. PT ISIM  [Positive Technologies]  ->  -
+73. MaxPatrol O2  [Positive Technologies]  ->  -
+74. MaxPatrol SIEM  [Positive Technologies]  ->  -
+75. MaxPatrol VM  [Positive Technologies]  ->  -
+76. PT Sandbox  [Positive Technologies]  ->  -
+77. PT Application Firewall  [Positive Technologies]  ->  -
+78. PT Application Inspector  [Positive Technologies]  ->  -
+79. PT Container Security  [Positive Technologies]  ->  -
+80. PT Data Security  [Positive Technologies]  ->  -
+81. Копилка  [Кибериспытание]  ->  -
+82. Логика Молока  [Логика Молока]  ->  -
+83. Cloud․ru  [Cloud․ru]  ->  cloud.ru
+      cloud.ru
+      console.cloud.ru
+      *.api.cloud.ru
+84. MyReviews  [Craftum]  ->  myreviews.dev
+      myreviews.ru
+      myreviews.dev
+      *.myreviews.dev
+85. ЕПГУ-Выборы  [Минцифры России]  ->  gosuslugi.ru
+      elections.gosuslugi.ru
+      lkparty.gosuslugi.ru
+      voter.gosuslugi.ru
+      candidate.gosuslugi.ru
+      commission.gosuslugi.ru
+86. Setka  [hh.ru]  ->  setka.ru
+      hh.ru
+      setka.ru
+      api.setka.ru
+87. Т-БКИ  [Т-Банк]  ->  tbki.ru
+      tbki.ru
+      account.tbki.ru
+88. Центральный Университет  [Т-Банк]  ->  centraluniversity.ru
+      my.centraluniversity.ru
+      id.centraluniversity.ru
+      cu.ru
