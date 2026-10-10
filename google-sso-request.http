@@ -1,0 +1,91 @@
+###############################################################################
+# Google SSO (OAuth) flow for app.clowdey.ai  —  Burp-style raw HTTP requests
+#
+# ماتبعتهاش tokens حقيقية؛ القيم اللي زي <...> و {{...}} لازم تتبدل بقيم الـ
+# session الحقيقية اللي هتلاقيها في الـ Burp capture.
+#
+# الـ app مش بتعمل OAuth لجوجل بنفسها — بتستخدم Firebase Authentication.
+# يعني Firebase هو اللي بيفتح popup جوجل ويجيب الـ token، وبعدين الـ frontend
+# بيبعت الـ token لباك-إند clowdey على /v1/auth/google.
+#
+# الترتيب زي ما بيظهر في Burp:
+#   (1) authorization request لجوجل      -> accounts.google.com
+#   (2) Firebase signInWithIdp            -> identitytoolkit.googleapis.com
+#   (3) clowdey backend SSO request       -> api.clowdey.ai  (<-- دي "ريكوست Google SSO" بتاعة الموقع)
+###############################################################################
+
+
+# =============================================================================
+# (1) Google OAuth 2.0 authorization request
+#     دي اللي بتتفتح في popup لما تدوس "Continue with Google".
+#     client_id و redirect_uri بيحطهم Firebase وقت التشغيل (مش ثابتين في الـ bundle):
+#       - client_id    = الـ OAuth web client بتاع مشروع Firebase (ينتهي بـ .apps.googleusercontent.com)
+#       - redirect_uri = https://<authDomain>/__/auth/handler
+# =============================================================================
+GET /o/oauth2/v2/auth?client_id=<FIREBASE_OAUTH_CLIENT_ID>.apps.googleusercontent.com&redirect_uri=https%3A%2F%2F<FIREBASE_AUTH_DOMAIN>%2F__%2Fauth%2Fhandler&response_type=code&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=<OPAQUE_STATE>&prompt=select_account HTTP/2
+Host: accounts.google.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.9
+Referer: https://app.clowdey.ai/
+Connection: close
+
+
+# =============================================================================
+# (2) Firebase Identity Toolkit — signInWithIdp
+#     بعد ما جوجل يرجّع الـ credential، Firebase بيبعته هنا ويرجّع idToken بتاع Firebase.
+#     ملاحظة: الـ key دي public web API key (مش سر) وموجودة في الـ client bundle.
+# =============================================================================
+POST /v1/accounts:signInWithIdp?key=AIzaSyB_7nskEXxP9kE5FSwjxbsNFNRfNjbcpSY HTTP/2
+Host: identitytoolkit.googleapis.com
+Content-Type: application/json
+Accept: */*
+Origin: https://app.clowdey.ai
+Referer: https://app.clowdey.ai/
+Connection: close
+
+{
+  "postBody": "id_token=<GOOGLE_OIDC_ID_TOKEN>&providerId=google.com",
+  "requestUri": "https://app.clowdey.ai/aws/sign-up",
+  "returnIdpCredential": true,
+  "returnSecureToken": true
+}
+
+
+# =============================================================================
+# (3) clowdey backend — الـ "Google SSO request" بتاعة الموقع نفسه
+#     دي أهم ريكوست: الـ frontend بياخد الـ token من Firebase/Google
+#     ويعمله POST للباك-إند بتاع clowdey. (axios baseURL = https://api.clowdey.ai)
+#
+#     أسماء حقول الـ token (googleIdToken / firebaseIdToken / accessToken) متوقّعة
+#     بالقياس على مسار Microsoft في نفس الـ bundle؛ أكّدها من الـ capture الحقيقي.
+#     signupDevice و attribution بيتضافوا من الـ frontend دايمًا.
+# =============================================================================
+POST /v1/auth/google HTTP/2
+Host: api.clowdey.ai
+Content-Type: application/json
+Accept: application/json, text/plain, */*
+Origin: https://app.clowdey.ai
+Referer: https://app.clowdey.ai/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+Connection: close
+
+{
+  "googleIdToken": "<GOOGLE_OIDC_ID_TOKEN>",
+  "firebaseIdToken": "<FIREBASE_ID_TOKEN>",
+  "accessToken": "<GOOGLE_ACCESS_TOKEN>",
+  "signupDevice": "web",
+  "attribution": {
+    "visitor_id": "<VISITOR_ID>",
+    "first_touch": {
+      "utm_source": "facebook",
+      "utm_medium": "cpc",
+      "utm_campaign": "conv_aws_credits_mena_ugc_videos"
+    },
+    "last_touch": {
+      "utm_source": "facebook",
+      "utm_medium": "cpc",
+      "utm_campaign": "conv_aws_credits_mena_ugc_videos"
+    }
+  }
+}
