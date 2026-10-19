@@ -1,0 +1,19 @@
+{
+  "name": "zodiac-climate-zones",
+  "private": true,
+  "description": "Poster: the 12 zodiac signs along the Sun's yearly path between the Tropic of Cancer and the Tropic of Capricorn, grouped by season.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "@fontsource/cairo": "5.3.0",
+    "@fontsource/noto-sans-symbols": "5.3.0",
+    "d3-geo": "3.1.1",
+    "topojson-client": "3.1.0",
+    "world-atlas": "2.0.2"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1"
+  }
+}
